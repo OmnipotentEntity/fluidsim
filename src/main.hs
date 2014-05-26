@@ -1,2 +1,2 @@
 main :: IO ()
-main = putStr "Buttface"
+main = putStrLn "Buttface"
